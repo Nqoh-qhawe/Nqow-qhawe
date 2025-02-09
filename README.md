@@ -4,9 +4,9 @@
 
   - [Snake game project](https://github.com/joshmadakor1/Algorithms-Practice)
 
- Cybersecurity projects:
+</h2>Cybersecurity Projects:</h2>
 
-   -virtualbox lab
+   -[virtualbox lab]
 
    Comptia Security plus
                    [continue]  
